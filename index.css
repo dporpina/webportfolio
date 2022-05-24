@@ -1,0 +1,139 @@
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Quicksand', sans-serif;
+	font-family: 'Roboto Flex', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
+	/*background: #212529*/
+
+}
+
+#pix {
+	background-image: url(./image/pix.jpg);
+	background-size: cover;
+	height: 100%;
+	margin-bottom: 25px
+
+}
+
+/*NavBar Start*/
+
+#h {
+	color: white;
+
+}
+
+.navi {
+	background-color: black;
+	color: whitesmoke;
+	padding: 20px;
+}
+
+/*NavBar End*/
+
+/*Home Start*/
+
+.main {
+
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+/*Home End*/
+
+/*About Me Start*/
+
+/*img {
+	max-width: 50%;
+	height: auto;
+}*/
+
+.about {
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+
+}
+
+.my {
+	margin-right: 200px;
+	margin-left: 200px;
+}
+.i1 {
+	color: whitesmoke;
+}
+
+#p1 {
+	text-align: center;
+	margin-top: 300px;
+	margin-bottom: 50px;
+	color: black;
+}
+
+.par {
+	text-align: left;
+	color: black;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
+
+/*About Me End*/
+
+/*Project Page Start*/
+
+.project {
+	text-align: center;
+	color: white;
+	background-color: gray;
+	margin-top: 250px;
+	margin-bottom: 200px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+/*Tools sectiosn start*/
+
+#p3 {
+	text-align: center;
+	color: black;
+	margin-top: 200px;
+
+
+}
+
+.mern {
+	text-align: center;
+	color: black;
+}
+
+/*Tools sectiosn End*/
+
+
+/*Project Page End*/
+
+/*Contact Form Start*/
+
+.contact {
+	margin-top: 300px;
+	margin-bottom: 100px;
+}
+
+/*Contact Form End*/
+
+/*Footer start*/
+
+section {
+	text-align: center;
+	color: white;
+	padding: 20px;
+	background-color: #696969;
+/*Footer End*/
